@@ -7,7 +7,7 @@ const blogPosts = [
     title: '5 Habits of Highly Successful Traders',
     category: 'Trading Psychology',
     excerpt: 'Discover the routine and mindset that separates professional traders from the rest. It is not just about strategy, it is about discipline.',
-    date: 'Oct 12, 2026',
+    date: 'Jun 12, 2026',
     author: 'Quake Trade Team',
     readTime: '4 min read'
   },
@@ -15,7 +15,7 @@ const blogPosts = [
     title: 'Understanding Quotex Market Geometry',
     category: 'Market Analysis',
     excerpt: 'A deep dive into structural patterns and how market geometry can predict the next major move with high precision.',
-    date: 'Oct 08, 2026',
+    date: 'May 08, 2026',
     author: 'Quake Trade Admin',
     readTime: '7 min read'
   },
@@ -23,7 +23,7 @@ const blogPosts = [
     title: 'Risk Management Strategy 101',
     category: 'Trading Guides',
     excerpt: 'If you want to survive the markets, you need to manage your capital. Here is the framework we use to protect our portfolios.',
-    date: 'Sep 29, 2026',
+    date: 'Apr 29, 2026',
     author: 'Quake Trade Mentor',
     readTime: '5 min read'
   }
