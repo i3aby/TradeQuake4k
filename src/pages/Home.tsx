@@ -159,9 +159,9 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { name: "Alex M.", text: "Quake Trade signals completely changed my Quotex game. The precision is unmatched." },
-              { name: "Sarah K.", text: "The educational content is pure gold. I finally understand market structure." },
-              { name: "James D.", text: "Best community in trading. The mentors actually care about your success." }
+              { name: "Tariq K.", text: "Quake Trade signals completely changed my Quotex game. The precision is unmatched." },
+              { name: "Maryam K.", text: "The educational content is pure gold. I finally understand market structure." },
+              { name: "Tayyab K.", text: "Best community in trading. The mentors actually care about your success." }
             ].map((testimony, i) => (
               <div key={i} className="glass-panel p-8 rounded-2xl relative">
                 <div className="flex text-brand-gold mb-4">
